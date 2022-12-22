@@ -5,7 +5,7 @@ _We built it because [Financial Forecasts](https://github.com/stefano77it/foreca
 
 Tools:
 * Excel sample, MIT licensed
-* [Javascript libraries](https://github.com/simulation99/simulation-js), MIT licensed
+* [Javascript libraries](https://github.com/simulation99/simulation-js), MIT licensed, running on [Deno](https://deno.land/) or directly in a browser (using [Observable](https://observablehq.com/) or what you like)
 * Report generation program, free for non-commercial users, for Windows
 
-_Built using [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) running on [Deno](https://deno.land/), a bit of Excel and our special magic sauce._
+For support open an issue on https://github.com/simulation99/simulation-js.
