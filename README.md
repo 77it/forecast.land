@@ -8,4 +8,4 @@ Tools:
 * [Javascript libraries](https://github.com/simulation99/simulation-js), MIT licensed, running on [Deno](https://deno.land/) or directly in a browser (using [Observable](https://observablehq.com/) or what you like)
 * Report generation program, free for non-commercial users, for Windows
 
-For support open an issue on https://github.com/simulation99/simulation-js.
+For support open an issue on https://github.com/simulation99/simulation-js page.
